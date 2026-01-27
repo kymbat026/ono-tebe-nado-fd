@@ -28,15 +28,15 @@
 }
 .header_link {
     font-size: 18px;
-font-weight: 400;
+    font-weight: 400;
 }
 .header_link-active {
     text-decoration: none;
 }
 .header_logo {
     display: block;
-width: 148px;
-height: auto;
+    width: 148px;
+    height: auto;
 }
 .header_logo-image {
     display: block;
@@ -60,7 +60,7 @@ height: auto;
     line-height: 24.3px;
     display: inline-block;
 }
- .cover {  
+ .cover {
     min-height: 100vh;
     background-image: url(../images/cover.jpg);
     background-size: cover;
@@ -141,12 +141,12 @@ height: auto;
     color: white;
 }
 .lots_heading {
-padding-left:  40px;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-text-transform: uppercase;
-color: black;
+    padding-left:  40px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-transform: uppercase;
+    color: black;
 }
 .lots_card-list {
     display: flex;

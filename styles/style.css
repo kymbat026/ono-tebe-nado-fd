@@ -3,7 +3,7 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     column-gap: 30px;
-    padding: 92px 50px 96px;
+    padding: 95px 50px 96px;
 }
 .header_menu {
     display: grid;
@@ -41,7 +41,7 @@
 .header_logo-image {
     display: block;
     width: 100%;
-    height:auto ;
+    height:auto;
 }
 .header_address {
     max-width: 240px;
@@ -212,7 +212,7 @@
     text-decoration: underline;
 }
 .about {
-    margin-top: 118.5px;
+    margin-top: 120px;
     padding: 0 24px;
 }
 .about_column {

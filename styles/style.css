@@ -126,8 +126,8 @@ header {
 }
 .aligned-text_center span:nth-last-child(-n+2) {
     transform: translateX(15px);
-    display: inline-block; 
-}
+    display: inline-block;
+ }
 .aligned-text_right {
     text-align: right;
     transform: translateY(-10px) translateX(+1px);
@@ -139,10 +139,10 @@ header {
 .aligned-text_right span:nth-last-child(-n+2) {
     transform: translateX(18px);
     display: inline-block; 
-}
+} 
 .aligned-text_right span:nth-last-child(-n+1) {
     transform: translateX(24px);
-    display: inline-block; 
+    display: inline-block;
 }
 .cover_description {
     position: relative;
